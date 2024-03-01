@@ -3,6 +3,11 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=burakozturk05&style=flat-square&color=blue" alt=""/>
 
+
+I am a Junior Software Developer/.NET <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+
+
 <!--
 **burakozturk05/burakozturk05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
