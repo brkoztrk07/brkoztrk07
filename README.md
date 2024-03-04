@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=burakozturk05&style=flat-square&color=blue" alt=""/>
                     
 Hi, I am Burak Ozturk.
-I am a Junior Software Developer/.NET <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">      
+I am a Junior Software Developer/.NET   
 
 
 
