@@ -3,7 +3,6 @@
 </div>
                     
 Hi, I am Burak Ozturk.
-I am a Junior Software Developer/.NET   
 
 
 
