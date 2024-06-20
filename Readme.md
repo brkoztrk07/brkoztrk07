@@ -5,7 +5,6 @@
 Hi, I am Burak Ozturk.
 
 C, C#, Js.
-Learning Kotlin & Java.
 
 
 
