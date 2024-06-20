@@ -4,6 +4,8 @@
                     
 Hi, I am Burak Ozturk.
 
+C, C#, JS.
+
 
 
 <!--
