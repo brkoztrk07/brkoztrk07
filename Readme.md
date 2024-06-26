@@ -4,7 +4,8 @@
                     
 Hi, I am Burak Ozturk.
 
-C, C#
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
 
 
 
