@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-[LinkedIn](https://www.linkedin.com/in/burak-ozturk-ba24392a0/)
+<a href="https://www.linkedin.com/in/burak-ozturk-ba24392a0/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+</a>
 Hi, I am Burak Ozturk.
 
 
