@@ -8,7 +8,6 @@ Hi, I am Burak.</br>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Icon Display</title>
     <style>
         .icon-container {
             display: flex;
