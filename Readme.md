@@ -8,15 +8,6 @@ Hi, I am Burak.</br>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .icon-container {
-            display: flex;
-            align-items: center;
-        }
-        .icon-container img {
-            margin-right: 10px; /* İkonlar arasında boşluk bırakmak için */
-        }
-    </style>
 </head>
 <body>
 
